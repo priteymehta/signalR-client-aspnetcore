@@ -1,0 +1,11 @@
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\bin\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.deps.json
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\bin\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.runtimeconfig.json
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\bin\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.runtimeconfig.dev.json
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\bin\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.dll
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\bin\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.pdb
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\obj\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.csprojAssemblyReference.cache
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\obj\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.csproj.CoreCompileInputs.cache
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\obj\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.AssemblyInfoInputs.cache
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\obj\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.AssemblyInfo.cs
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\obj\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.dll
+D:\CCC\projects\SignalR\SignalR.Sample.ClientV1\SignalR.Sample.ClientV1\obj\Debug\netcoreapp2.1\SignalR.Sample.ClientV1.pdb

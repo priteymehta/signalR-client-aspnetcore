@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SignalR.Client": {
+      "commandName": "Project"
+    }
+  }
+}
